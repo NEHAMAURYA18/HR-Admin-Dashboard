@@ -17,11 +17,12 @@ This project includes multiple pages which are:
 2. Login Page
 3. Forgot Password
 
-![image](https://user-images.githubusercontent.com/85781836/179358187-46e78981-3e45-42a0-a19b-c848242b082a.png)
-![image](https://user-images.githubusercontent.com/85781836/179358191-76b69591-91a7-4210-8964-a2f1f789c6d3.png)
-![image](https://user-images.githubusercontent.com/85781836/179358195-f728ddd9-8989-438c-9a72-2916304ab553.png)
-![image](https://user-images.githubusercontent.com/85781836/179358197-206abfc0-1e6d-4bc0-a182-469f538483bf.png)
-![image](https://user-images.githubusercontent.com/85781836/179358202-a44184af-2b0e-437d-ba60-40eea51b0779.png)
+![image](https://user-images.githubusercontent.com/85781836/179358470-a1b5eed7-14f5-4649-a2ca-b778cbec9a84.png)
+![image](https://user-images.githubusercontent.com/85781836/179358474-4195f5c8-6e09-4caf-befe-a63c011a8dfc.png)
+![image](https://user-images.githubusercontent.com/85781836/179358476-47022ea6-3efc-49e1-9935-97d84dd935c0.png)
+![image](https://user-images.githubusercontent.com/85781836/179358482-7e051c00-791f-452e-acdd-f142a2842e30.png)
+![image](https://user-images.githubusercontent.com/85781836/179358486-623998bc-c11f-43af-8e49-1d49f216d0a5.png)
+
 
 
 # Performance of JsonPowerDB 
